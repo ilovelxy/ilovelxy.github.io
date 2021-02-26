@@ -82,6 +82,19 @@
     
     
     <entry>
+      <title></title>
+      <link href="2021/02/26/Java%E4%B8%AD%E7%9A%84%E8%87%AA%E5%8A%A8%E8%A3%85%E7%AE%B1%E4%B8%8E%E8%87%AA%E5%8A%A8%E6%8B%86%E7%AE%B1/"/>
+      <url>2021/02/26/Java%E4%B8%AD%E7%9A%84%E8%87%AA%E5%8A%A8%E8%A3%85%E7%AE%B1%E4%B8%8E%E8%87%AA%E5%8A%A8%E6%8B%86%E7%AE%B1/</url>
+      
+        <content type="html"><![CDATA[<h2 id="Java中的自动拆箱和自动装箱："><a href="#Java中的自动拆箱和自动装箱：" class="headerlink" title="Java中的自动拆箱和自动装箱："></a>Java中的自动拆箱和自动装箱：</h2><p><code>Java</code>中的每个基本数据类型都对应一个包装类型：</p><p>基本数据类型提升为对应的包装类型 称为自动装箱。</p><p>总结：</p><ul><li><code>=</code>:装箱或拆箱</li><li>比较运算：拆箱</li><li>四则运算：拆箱</li><li><code>equals</code>进行比较：装箱</li><li>集合框架：装箱</li></ul>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>数据库学习</title>
       <link href="2021/01/07/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AD%A6%E4%B9%A0/"/>
       <url>2021/01/07/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AD%A6%E4%B9%A0/</url>
@@ -125,9 +138,9 @@
       
         <tags>
             
-            <tag> JVM </tag>
-            
             <tag> Java </tag>
+            
+            <tag> JVM </tag>
             
             <tag> 永久代 </tag>
             
@@ -202,9 +215,9 @@
       
         <tags>
             
-            <tag> JVM </tag>
-            
             <tag> Java </tag>
+            
+            <tag> JVM </tag>
             
         </tags>
       
