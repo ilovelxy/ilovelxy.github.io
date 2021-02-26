@@ -5,32 +5,6 @@
     
     <entry>
       <title></title>
-      <link href="2021/02/26/endnote%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-      <url>2021/02/26/endnote%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</url>
-      
-        <content type="html"><![CDATA[<h1 id="endnote学习笔记"><a href="#endnote学习笔记" class="headerlink" title="endnote学习笔记"></a>endnote学习笔记</h1><p>文献管理软件</p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
-      <link href="2021/02/26/Android%E4%B8%89%E7%BA%A7%E7%BC%93%E5%AD%98/"/>
-      <url>2021/02/26/Android%E4%B8%89%E7%BA%A7%E7%BC%93%E5%AD%98/</url>
-      
-        <content type="html"><![CDATA[<h1 id="Android三级缓存"><a href="#Android三级缓存" class="headerlink" title="Android三级缓存"></a>Android三级缓存</h1><ol><li>缓存机制加载流程</li><li><code>LRU</code>算法：当元素个数超过允许的数量的时候，去除最近最少使用的元素。<ul><li><code>android.util</code>包下，对<code>LinkedHashMap</code>的封装，<code>true</code>:访问排序</li></ul></li><li>活动/内存的由来 内存缓存 活动缓存 高频问题 <code>glide</code>源码</li><li>资源封装/活动内存/内存缓存/磁盘缓存</li><li>生命周期/<code>manager</code>/<code>load_data</code></li></ol>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
       <link href="2021/02/26/%E5%B0%9A%E7%A1%85%E8%B0%B7_%E5%AE%8B%E7%BA%A2%E5%BA%B7_Class%E5%AD%97%E8%8A%82%E7%A0%81%E6%96%87%E4%BB%B6%E7%BB%93%E6%9E%84/"/>
       <url>2021/02/26/%E5%B0%9A%E7%A1%85%E8%B0%B7_%E5%AE%8B%E7%BA%A2%E5%BA%B7_Class%E5%AD%97%E8%8A%82%E7%A0%81%E6%96%87%E4%BB%B6%E7%BB%93%E6%9E%84/</url>
       
@@ -61,19 +35,6 @@
       <url>2021/02/26/okhttp%E5%AD%A6%E4%B9%A0/</url>
       
         <content type="html"><![CDATA[<h1 id="okhttp学习"><a href="#okhttp学习" class="headerlink" title="okhttp学习"></a>okhttp学习</h1><ul><li><code>okhttp</code>请求流程</li><li>高并发请求分发器与线程池</li><li>责任链模式请求与响应式拦截器</li></ul>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
-      <link href="2021/02/26/new_note/"/>
-      <url>2021/02/26/new_note/</url>
-      
-        <content type="html"><![CDATA[<h1 id="new-note"><a href="#new-note" class="headerlink" title="new_note"></a>new_note</h1><p>二、</p><ol><li>3 2</li><li>值传递       地址传递</li><li><code>auto</code>       <code>static</code></li><li><code>main</code>        <code>.cpp</code></li><li>25       11</li><li><code>&#39;\0&#39;</code></li><li> 18</li><li>6</li><li><code>&lt;cstring&gt;</code></li><li>字节数之和</li></ol>]]></content>
       
       
       
@@ -138,9 +99,9 @@
       
         <tags>
             
-            <tag> JVM </tag>
-            
             <tag> Java </tag>
+            
+            <tag> JVM </tag>
             
             <tag> 永久代 </tag>
             
@@ -164,6 +125,60 @@
             <tag> typora </tag>
             
             <tag> 主题 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Android三级缓存</title>
+      <link href="2020/12/07/Android%E4%B8%89%E7%BA%A7%E7%BC%93%E5%AD%98/"/>
+      <url>2020/12/07/Android%E4%B8%89%E7%BA%A7%E7%BC%93%E5%AD%98/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Android三级缓存"><a href="#Android三级缓存" class="headerlink" title="Android三级缓存"></a>Android三级缓存</h1><ol><li>缓存机制加载流程</li><li><code>LRU</code>算法：当元素个数超过允许的数量的时候，去除最近最少使用的元素。<ul><li><code>android.util</code>包下，对<code>LinkedHashMap</code>的封装，<code>true</code>:访问排序</li></ul></li><li>活动/内存的由来 内存缓存 活动缓存 高频问题 <code>glide</code>源码</li><li>资源封装/活动内存/内存缓存/磁盘缓存</li><li>生命周期/<code>manager</code>/<code>load_data</code></li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> Android </category>
+          
+          <category> 三级缓存 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Android </tag>
+            
+            <tag> 三级缓存 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>endnote学习笔记</title>
+      <link href="2020/12/07/endnote%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+      <url>2020/12/07/endnote%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</url>
+      
+        <content type="html"><![CDATA[<h1 id="endnote学习笔记"><a href="#endnote学习笔记" class="headerlink" title="endnote学习笔记"></a>endnote学习笔记</h1><p>文献管理软件</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> endnote学习笔记 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> endnote学习笔记 </tag>
             
         </tags>
       
@@ -244,9 +259,9 @@
       
         <tags>
             
-            <tag> JVM </tag>
-            
             <tag> Java </tag>
+            
+            <tag> JVM </tag>
             
         </tags>
       
