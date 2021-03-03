@@ -8,7 +8,7 @@
       <link href="2021/03/03/Android%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
       <url>2021/03/03/Android%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<h3 id="区别DVM和JVM"><a href="#区别DVM和JVM" class="headerlink" title="区别DVM和JVM"></a>区别<code>DVM</code>和<code>JVM</code></h3><ol><li>首要区别<ol><li><code>Dalvik</code>:基于寄存器，编译和运行都会更快些</li><li><code>JVM</code>:基于栈，编译和运行都会慢些</li></ol></li><li>字节码的区别<ol><li><code>Dalvik</code>:执行<code>.dex</code>格式的字节码，是对<code>.class</code>文件进行压缩后产生的，文件变小</li><li><code>JVM</code>:执行<code>.class</code>格式的字节码</li></ol></li><li>运行环境的区别<ol><li><code>Dalvik</code>:一个应用启动都运行一个单独的虚拟机，运行在一个单独的进程中</li><li><code>JVM</code>:只能运行一个实例，也就是所有应用都运行在同一个<code>JVM</code>中</li></ol></li></ol>]]></content>
       
       
       <categories>
