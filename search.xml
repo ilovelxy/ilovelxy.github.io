@@ -4,11 +4,40 @@
   
     
     <entry>
+      <title>Comparable和Comparator</title>
+      <link href="2021/03/09/Comparable%E5%92%8CComparator/"/>
+      <url>2021/03/09/Comparable%E5%92%8CComparator/</url>
+      
+        <content type="html"><![CDATA[<h2 id="Comparable接口"><a href="#Comparable接口" class="headerlink" title="Comparable接口"></a><code>Comparable</code>接口</h2><p>这个接口位于<code>java.lang</code>包下，只有一个方法：<code>compareTo(Object o)</code>。<strong>在JDk1.5后，加入了泛型类型。</strong></p><p>可以用来排序用户自定义类</p><h2 id="Comparator接口"><a href="#Comparator接口" class="headerlink" title="Comparator接口"></a><code>Comparator</code>接口</h2><p>这个接口位于<code>java.util</code>包下，含有许多方法，其中有：<code>compare(Object o1,Object o2)</code>。也是用来排序用户自定义类的。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Java </category>
+          
+          <category> 集合框架 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Java </tag>
+            
+            <tag> 集合框架 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Java集合</title>
       <link href="2021/03/04/Java%E9%9B%86%E5%90%88/"/>
       <url>2021/03/04/Java%E9%9B%86%E5%90%88/</url>
       
-        <content type="html"><![CDATA[<h2 id="Java整体的集合框架"><a href="#Java整体的集合框架" class="headerlink" title="Java整体的集合框架"></a><code>Java</code>整体的集合框架</h2><p><img src="java-collection-hierarchy.png" alt="java-collection-hierarchy"></p>]]></content>
+        <content type="html"><![CDATA[<h2 id="Java整体的集合框架"><a href="#Java整体的集合框架" class="headerlink" title="Java整体的集合框架"></a><code>Java</code>整体的集合框架</h2><p><img src="java-collection-hierarchy.png" alt="java-collection-hierarchy"></p><p><img src="arraylist.png" alt="arraylist.png"></p><p><img src="linkedlist.png" alt="linkedlist.png"></p><h3 id="List"><a href="#List" class="headerlink" title="List"></a><code>List</code></h3><h4 id="排序List的方法"><a href="#排序List的方法" class="headerlink" title="排序List的方法"></a>排序<code>List</code>的方法</h4><ol><li>可以使用<code>Collections.sort()</code>方法</li></ol>]]></content>
       
       
       <categories>
